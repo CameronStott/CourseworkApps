@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">locations_defib</string>
+    <string name="google_maps_key" translatable="false"> AIzaSyCMj8masZMjOmEHC3ZaFOKsOoIn2eQ5_KA</string>
+    <string name="title_activity_direction_activity">direction_activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
